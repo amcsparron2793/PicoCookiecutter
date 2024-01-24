@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Flash  Project" type="MicroPythonConfigurationType" factoryName="MicroPython" path="C:\Users\amcsp\Desktop\PythonProjects\PicoCookiecutter\{{cookiecutter.project_name}}">
+    <module name="PicoCookiecutter" />
+    <method v="2" />
+  </configuration>
+</component>
